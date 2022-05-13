@@ -1,0 +1,15 @@
+cheese
+egg
+butter
+yogurt
+sandwich
+hamburger
+hotdog
+pizza
+steak
+rice
+pancake
+milk
+sushi
+jam
+donut
